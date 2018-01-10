@@ -15,3 +15,5 @@
     * [对象属性删除](/01/09.object.delete.md)
     * [对象属性检测](/01/09.object.detection.md)
     * [对象属性的枚举](/01/09.object.enumerate.md)
+    * [使用 JavaScript 截断字符串](/01/10.string.truncate.md)
+    * [JavaScript 中回文(Palindromes)处理](/01/10.string.palindrome.md)
