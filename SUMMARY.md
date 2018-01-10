@@ -17,3 +17,6 @@
     * [对象属性的枚举](/01/09.object.enumerate.md)
     * [使用 JavaScript 截断字符串](/01/10.string.truncate.md)
     * [JavaScript 中回文(Palindromes)处理](/01/10.string.palindrome.md)
+    * [Chunky Monkey](/01/10.chunky.monkey.md)
+    * [阶乘(Factorial)函数](/01/factorial.md)
+    * [Slasher Flick](/01/slasher.flick.md)
