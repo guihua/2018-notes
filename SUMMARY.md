@@ -12,3 +12,6 @@
     * [数组计算：取最大值和最小值](/01/09.array.calculate.md)
     * [数组的增、删、改、查](/01/09.array.operate.md)
     * [ES6 数组方法](/01/09.array.es6.md)
+    * [对象属性删除](/01/09.object.delete.md)
+    * [对象属性检测](/01/09.object.detection.md)
+    * [对象属性的枚举](/01/09.object.enumerate.md)
