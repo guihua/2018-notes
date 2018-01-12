@@ -24,3 +24,4 @@
     * [Falsey Bouncer](/01/10.falsey.bouncer.md)
     * [从数组中寻找元素并删除元素](/01/11.array.destroyer.md)
     * [将一个数插入数组并返回其索引值](/01/11.array.where.md)
+    * [字尾确认](/01/12.string.end.md)
