@@ -26,3 +26,8 @@
     * [将一个数插入数组并返回其索引值](/01/11.array.where.md)
     * [字尾确认](/01/12.string.end.md)
     * [JavaScript 处理数字分位符号](/01/12.commas.separators.md)
+    * [声明 JavaScript 函数的常用方法](/01/15.declare.function.md)
+    * [箭头函数](/01/15.arrow.function.md)
+    * [ES6 代理和反射-undone](/01/15.proxy.md)
+    * [Object.defineProperty()-undone](/01/15.define.property.md)
+    * [视口宽高、位置与滚动高度](/01/15.offset.scroll.client.md)
