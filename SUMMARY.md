@@ -40,6 +40,9 @@
     * [CSS 框架 Bulma](/03/01.bulma.framework.md)
 * [04]
     * [JS 代码规范](/04/09.js.styleguide.md)
+    * [js 判断浏览器窗口激活状态](/04/10.document.hidden.md)
+    * [常用 Node 模块](/04/10.node.module.md)
+    * [清除本地 Node 环境](/04/10.node.clear.md)
 * [R语言]
     * [概述](/program.R/r.start.md)
     * [数据类型](/program.R/r.type.md)
