@@ -43,6 +43,9 @@
     * [js 判断浏览器窗口激活状态](/04/10.document.hidden.md)
     * [常用 Node 模块](/04/10.node.module.md)
     * [清除本地 Node 环境](/04/10.node.clear.md)
+    * [五种能有效提高转化的着陆页模板分享](/04/16.ab.module.md)
+    * [如何才能让用户点击——浅谈按钮上文字的作用](/04/16.button.text.md)
+    * [用户体验设计和精益设计的平衡之道](/04/16.design.balance.md)
 * [R语言]
     * [概述](/program.R/r.start.md)
     * [数据类型](/program.R/r.type.md)
