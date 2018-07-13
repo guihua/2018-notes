@@ -54,6 +54,12 @@
 * [07]
     * [判断用户浏览的是否为当前页](./07/11.visibility.md)
     * [提高生活品质的 22 件小事](./07/11.life.md)
+    * [React 技术栈图谱](./07/11.react.developer.roadmap.md)
+    * [Electron —— 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用](./07/11.electron.md)
+    * [Velocity.js —— 加速 JavaScript 动画](./07/11.velocity.js.md)
+    * [pica —— 使用 JS 进行快速高品质图像缩放](./07/11.pica.md)
+    * [Three.js —— JavaScript 3D 库](./07/11.there.js.md)
+    * [《朗读者》中19句温暖人心的句子](./07/13.declaimer.md)
 * [R语言]
     * [概述](/program.R/r.start.md)
     * [数据类型](/program.R/r.type.md)
