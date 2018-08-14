@@ -60,6 +60,13 @@
     * [pica —— 使用 JS 进行快速高品质图像缩放](./07/11.pica.md)
     * [Three.js —— JavaScript 3D 库](./07/11.there.js.md)
     * [《朗读者》中19句温暖人心的句子](./07/13.declaimer.md)
+    * [我只是想起你了，不是想你了](./07/17.mind.md)
+    * [短文](./07/17.word.md)
+    * [无论你遇见谁，他都是你生命该出现的人，绝非偶然](./07/17.meeting.md)
+    * [季羡林：人生的意义是什么](./07/26.life.purpose.md)
+* [08]
+    * [读书的意义是什么？](/08/03.reading.md)
+    * [常用 VSCode 插件](/08/14.vscode.plugins.md)
 * [R语言]
     * [概述](/program.R/r.start.md)
     * [数据类型](/program.R/r.type.md)
