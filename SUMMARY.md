@@ -67,6 +67,12 @@
 * [08]
     * [读书的意义是什么？](/08/03.reading.md)
     * [常用 VSCode 插件](/08/14.vscode.plugins.md)
+    * [滚动视差](/08/15.background.attachment.md)
+    * [理解 Web 缓存](/08/15.web.storage.md)
+    * [React 的生命周期](/08/16.react.lifecycle.md)
+    * [前端性能优化](/08/17.performance.optimization.md)
+    * [React 异常处理](/08/22.react.error.md)
+    * [前端性能优化](/08/22.performance.report.md)
 * [R语言]
     * [概述](/program.R/r.start.md)
     * [数据类型](/program.R/r.type.md)
