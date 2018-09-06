@@ -76,6 +76,7 @@
 * [09]
     * [探索 Web 上图片使用方式](./09/04.web.img.md)
     * [vscode 常用插件](./09/06.vscode.plugins.md)
+    * [Chrome 书签备份](./09/06.bookmark.md)
 * [R语言]
     * [概述](/program.R/r.start.md)
     * [数据类型](/program.R/r.type.md)
