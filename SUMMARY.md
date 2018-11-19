@@ -79,7 +79,5 @@
     * [vscode 常用插件](./09/06.vscode.plugins.md)
     * [Chrome 书签备份](./09/06.bookmark.md)
     * [Debounce 和 Throttle 的原理及实现](./09/19. debounce.throttle.md)
-* [R语言]
-    * [概述](program.R/r.start.md)
-    * [数据类型](program.R/r.type.md)
-
+    * [JavaScript 数组去重](./09/25.array.unique.md)
+    * [JavaScript 常用数组操作方法](./09/25.array.operate.md)
